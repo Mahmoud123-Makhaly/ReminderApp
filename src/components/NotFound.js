@@ -2,7 +2,7 @@ import React from 'react'
 
 const NotFound = () => {
   return (
-    <div class="alert alert-secondary" role="alert">
+    <div className="alert alert-secondary text-center" role="alert">
  <h5>لاتوجد مواعيد متاحة الان</h5>
   </div>
   )
